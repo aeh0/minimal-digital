@@ -4,13 +4,21 @@ description: Enhancing objects through transcription, overlay, or commentary
 
 # Annotations
 
-The other advantage to being able to define and save a specific section of an image, is that we can attach information to it, enhancing the original. 'Annotation' can be as simple as connecting a plain text transcription to an image from a book, in order to make the words it contains searchable.
+Being able to define and save a specific section of an image using a URL, means we can attach information to it, enhancing the original.
+
+### Transcription
+
+'Annotation' can be as simple as connecting a plain text transcription to an image from a book, in order to make the words it contains searchable.
 
 Text search [https://wellcomelibrary.org/moh/report/b18250464#?c=0\&m=0\&s=0\&cv=46](https://wellcomelibrary.org/moh/report/b18250464#?c=0\&m=0\&s=0\&cv=46)
+
+### Overlay
 
 Or, an image can be annotated with another image, for example, overlaying a historic map on top of a modern version, to visualise spatial change over time.
 
 Overlaying: Compariscope. https://vanda.github.io/iiif-features/compariscope.html
+
+### Commentary
 
 Or, we can add curatorial commentary, to allow us to tell stories with images.
 
