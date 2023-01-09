@@ -4,7 +4,9 @@ description: View objects in minute detail, share and cite with pinpoint accurac
 
 # Deep zoom
 
-Tiled images can be zoomed into at astonishing levels of detail, quickly and responsively, even if the image is very large. The browser only loads the precise tiles that are needed, and this reduces the processing power needed to view the image.
+
+
+Zooming into tiled images is fast and responsive, even if the image is very large, because the browser only loads the tiles that are needed.&#x20;
 
 Take a look at [Rembrandt's Night Watch](https://hyper-resolution.org/view.html?pointer=0.329,0.001\&i=Rijksmuseum/SK-C-5/SK-C-5\_VIS\_20-um\_2019-12-21), from the Rijksmuseum, the largest and most detailed photo ever taken of a work of art. What you are viewing is a digital composite, as [the original painting was photographed in high resolution 8,439 times](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch). At 5.6TB, this is large enough to crash most browsers.&#x20;
 
