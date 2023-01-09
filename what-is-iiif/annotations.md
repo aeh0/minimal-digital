@@ -8,7 +8,7 @@ The other advantage to being able to define and save a specific section of an im
 
 Text search [https://wellcomelibrary.org/moh/report/b18250464#?c=0\&m=0\&s=0\&cv=46](https://wellcomelibrary.org/moh/report/b18250464#?c=0\&m=0\&s=0\&cv=46)
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/assets/config/uv-config-moh.json" data-uri="https://iiif.wellcomecollection.org/presentation/v2/b18250464" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="46" data-zoom="-1.5651,0,4.1302,1.6123" data-rotation="0" style="width:1068px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://wellcomelibrary.org/spas/uv/uv-1.7.32/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<iframe src="https://iiif.wellcomecollection.org/presentation/v2/b18250464#?updateStatistics=false&embedded=true&c=0&m=0&s=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg (xx-XX)&xywh=-1.5651,0,4.1302,1.6123&r=0" data-canvasindex="46" width="1068" height="600" allowfullscreen frameborder="0"></iframe>
 
 Or, an image can be annotated with another image, for example, overlaying a historic map on top of a modern version, to visualise spatial change over time.&#x20;
 
