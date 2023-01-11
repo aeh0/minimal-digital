@@ -1,7 +1,7 @@
 ---
 description: View objects in minute detail, share and cite with pinpoint accuracy
 cover: ../.gitbook/assets/deepzoom.jpg
-coverY: 224
+coverY: 55
 ---
 
 # Deep zoom
