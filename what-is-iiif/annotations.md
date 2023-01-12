@@ -32,12 +32,12 @@ Take a look at these [Raphael cartoons](https://vanda.github.io/curtain-viewer/)
 {% tab title="Commentary" %}
 Annotations may take the form of curatorial commentary, allowing us to tell stories with images.
 
-The Rijksmuseum used this capability to create [guided viewings of the Night Watch](https://beleefdenachtwacht.nl/en).
+The Rijksmuseum used this capability to create [guided, multimedia tours of the Night Watch](https://beleefdenachtwacht.nl/en).
 
-Created by NTR, a Dutch public service broadcaster, this ambitious, richly annotated version of [The Garden of Earthly Delights](https://archief.ntr.nl/tuinderlusten/en.html) by Jheronimus Bosch describes itself as an 'interactive documentary'. It's an interesting use of digital curatorial annotation beyond the cultural heritage sector.
+Created by NTR, a Dutch public service broadcaster, this ambitious, richly annotated version of [The Garden of Earthly Delights](https://archief.ntr.nl/tuinderlusten/en.html) by Jheronimus Bosch describes itself as an 'interactive documentary'. This is an interesting use of digital curatorial annotation beyond the cultural heritage sector.
 
-<figure><img src="../.gitbook/assets/bosch.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bosch.jpg" alt=""><figcaption><p>An annotated version of <a href="https://archief.ntr.nl/tuinderlusten/en.html">The Garden of Earthly Delights</a> by Jheronimus Bosch</p></figcaption></figure>
 
-This toolkit describes ways in which you can make your own narratives and tours of books, manuscripts, and artworks, using IIIF tools like [Storiiies](broken-reference/) and [Exhibit](broken-reference/).
+This toolkit describes ways in which you can make your own narratives and tours of books, manuscripts, and artworks, using free IIIF tools like [Storiiies](broken-reference/) and [Exhibit](broken-reference/).
 {% endtab %}
 {% endtabs %}
