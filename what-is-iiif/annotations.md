@@ -16,7 +16,7 @@ Search for 'influenza' in the keyword search box - notice that as you type, othe
 
 <figure><img src="../.gitbook/assets/keywordsuggestion.jpg" alt=""><figcaption><p>All words in a text are indexed, and alternative search terms are suggested as you type</p></figcaption></figure>
 
-When you search for 'influenza', you will find 9 results. When you click on one of the yellow markers, you will be taken to a page on which that word can be found, with the precise location of the work highlighted, thanks to IIIF annotation.
+When you search for 'influenza', you will find 9 results. When you click on one of the yellow markers, you will be taken to a page on which that word can be found, with the precise location of the work highlighted.
 {% endtab %}
 
 {% tab title="Overlay" %}
