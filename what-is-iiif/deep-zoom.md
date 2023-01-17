@@ -15,3 +15,5 @@ By using IIIF to tile the object into digital fragments, viewers are able to zoo
 * Open the [Night Watch](https://hyper-resolution.org/view.html?pointer=0.329,0.001\&i=Rijksmuseum/SK-C-5/SK-C-5\_VIS\_20-um\_2019-12-21)
 * Zoom in, and pan around - watch the address in the URL bar update as you move
 * Try copying the address, and pasting it in a new tab - your location has been saved!
+
+Being able to identify sections of a digital object using the URL means that researchers can share and cite precise details of an image or work.
