@@ -10,11 +10,11 @@ Being able to define and save a specific section of an image using a URL, means 
 {% tab title="Transcription" %}
 Annotation can be as simple as connecting a plain text transcription to images from a book, in order to make the words they contains searchable. Open this [Medical Officer's report](https://wellcomelibrary.org/moh/report/b18250464/0#?c=0\&m=0\&s=0\&cv=0\&z=-1.788%2C-0.1202%2C4.589%2C1.7914) from the Wellcome Collection. Without annotation, each word in this report would be just an image of a word, but by connecting a transcript using IIIF, the words have meaning, and the information they hold can be accessed via text search.&#x20;
 
-<figure><img src="../.gitbook/assets/keywordsearch.jpg" alt=""><figcaption><p>Each search term is precisely located and highlighted on the page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/keywordsearch.jpg" alt=""><figcaption><p>The precise location of the search term is indicated.</p></figcaption></figure>
 
 Search for 'influenza' in the keyword search box - notice that as you type, other words contained in the work that start with 'inf...' are suggested. This is particularly useful if the spelling of the word you want to search for has changed over time, as is often the case in historical sources.
 
-<figure><img src="../.gitbook/assets/keywordsuggestion.jpg" alt=""><figcaption><p>All words in a text are indexed - alternative search terms are suggested as you type</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/keywordsuggestion.jpg" alt=""><figcaption><p>All words in a text are indexed, and alternative search terms are suggested as you type</p></figcaption></figure>
 
 When you search for 'influenza', you will find 9 results. When you click on one of the yellow markers, you will be taken to a page on which that word can be found, with the precise location of the work highlighted, thanks to IIIF annotation.
 {% endtab %}
