@@ -11,3 +11,18 @@ Storiiies is the best place to get started with image annotation. You can use it
 These guided viewings were made using Storiiies - Hans Holbein's painting, [The Ambassadors](https://storiiies.cogapp.com/viewer?manifest=https://storiiies.cogapp.com/holbein/manifest.json), and George Cruikshank's etching, [State Miners](https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear/state-miners-1).
 
 Start by loading the [Storiiies editor](https://storiiies-editor.cogapp.com/). This is web-based, and doesn't require users to sign in or download anything.
+
+If you want to annotate a IIIF image, paste the [manifest](../what-is-iiif/finding-iiif-images.md) into the editor. If you're using a standard jpeg, upload the file. Large, high resolution jpegs will work best - if the file isn't large enough, you won't be able to zoom in far enough to make useful annotations. Copy this link to an [1881 map of America](https://whelf-cardiff.alma.exlibrisgroup.com/view/iiif/presentation/44WHELF\_CAR/12208043070002420/manifest), if you need a quick example.
+
+Give your presentation a title. Add an author, description, or credits if needed (these fields are optional). You will need to supply an email address - this will be used to send you a link to your finished presentation.
+
+<figure><img src="../.gitbook/assets/storiiies.jpg" alt=""><figcaption></figcaption></figure>
+
+Accept the terms and conditions to start editing your image. These clarify that Storiiies is a free platform, and does not commit to long term storage of presentations. You may receive updates via the email address provided, but can unsubscribe at any time. Storiiies reserves the right to remove inappropriate or rights-infringing images. It will not claim any copyright in the images uploaded or presentations created.
+
+When the editing interface opens, try zooming in, and clicking **Add new**, to add an annotation. Repeat as many times as needed. When you click **Submit**, the annotation will be attached to whatever section has been zoomed into. You can go back and edit the annotations, delete them, or drag and drop to reorder them.&#x20;
+
+When finished, use **Preview** to see the results. Here's an example I made with the [USA map](https://storiiies.cogapp.com/viewer/8f487/Map-of-USA). When you're happy with the presentation, go back to the editing interface, and click **Links**. This gives you a viewing link, and - very importantly - a link that allows you to make further edits in the future. These links will also be emailed to you, using the address provided. Storiies doesn't create user accounts, so these links are the only way to get back to your presentation - keep them safe!
+
+<figure><img src="../.gitbook/assets/storiiieslinks.jpg" alt=""><figcaption></figcaption></figure>
+
