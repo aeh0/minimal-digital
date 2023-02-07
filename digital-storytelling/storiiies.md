@@ -1,5 +1,5 @@
 ---
-description: Creates a tour or close reading of a single image
+description: Create a tour or close reading of a single image
 cover: ../.gitbook/assets/ambassadors.jpg
 coverY: 369
 ---
