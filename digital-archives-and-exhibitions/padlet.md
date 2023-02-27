@@ -28,7 +28,7 @@ There are a range of layouts that you can switch between as your project evolves
 
 **Grid** and **Wall** are equally suitable for unstructured information, and can make it easier to read, by organising posts either into a defined grid layout, or simply filling the space available (e.g. [History and Scholarship of Protest](https://padlet.com/hedreenr1/history-and-scholarship-of-protest-a-buley-library-online-ex-w9eisgyd81jh5usq)). These work particularly well with images (if you have ever used [Pinterest](https://www.pinterest.co.uk/), you will have seen a 'wall' style layout used to good visual effect).&#x20;
 
-When you need to organise content, **Shelf** is useful. This lets you arrange notes, images, and links in columns under category headings. This could be used for organising research into themes, which will later form a structure for a digital archive or exhibition.
+When you need to organise content, use **Shelf**. This lets you arrange notes, images, and links in columns under category headings. This could be used for organising research into themes, which will later form a structure for a digital archive or exhibition.
 
 When you're ready to build your archive or exhibition, there are a number of good options depending on your content. If you want to present an interactive map of locations, **Map** will allow you to geotag your entries (e.g. [Seven Wonders of the Ancient World](https://padlet.com/gallery/map-of-the-7-wonders-of-the-ancient-world-pvbf1n4qkycw)).&#x20;
 
