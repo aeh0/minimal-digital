@@ -18,7 +18,7 @@ Adding an entry is as simple as typing text, and clicking '**Publish**'. As well
 
 * Range of privacy settings
 
-Projects are 'secret' by default, meaning that anyone with a link can access them, but the project will be hidden from Google. There is also the option to make a project public (visible to Google), password protected, or entirely private (accessible only to the creator and any user who has been invited through their Padlet account). If you want to use Padlet for assessment, but are concerned that students may need to use modern, copyrighted images, you could use these settings to keep their projects restricted to assessors only. Whether projects use copyright-free images publicly or copyrighted images privately, such an assessment can be a good opportunity to discuss restrictions surrounding intellectual property with your students.
+Projects are 'secret' by default, meaning that anyone with a link can access them, but the project will be hidden from Google. There is also the option to make a project public (visible to Google), password protected, or entirely private (accessible only to the creator and any user who has been [invited through their Padlet account](https://www.youtube.com/watch?v=f2QhaaJvTrM)). If you want to use Padlet for assessment, but are concerned that students may need to use modern, copyrighted images, you could use these settings to keep their projects restricted to assessors only. Whether projects use copyright-free images publicly or copyrighted images privately, such an assessment can be a good opportunity to discuss restrictions surrounding intellectual property with your students.
 
 * Versatile layouts for presenting information
 
@@ -41,3 +41,5 @@ If you want to present information chronologically, use **Timeline** (e.g. [Apol
 **Stream** is a good option for hosting a full exhibition on Padlet. It supports a scrolling, illustrated narrative, and looks very professional. The Higgins Bedford Art Gallery and Museum have used the Stream format in Padlet to create their exhibition ['Paved with Gold': Bedford's Windrush Generation](https://padlet.com/thehiggins/paved-with-gold-bedford-s-windrush-generation-zo2jrvavc88d7r7t).
 
 Like [Storiiies ](../digital-storytelling/storiiies.md)and [Exhibit](../digital-storytelling/exhibit.md), projects on Padlet can be [embedded ](https://www.youtube.com/watch?v=bTKWJnZ\_-78)into other websites. You could use the Map or Timeline formats to create interactive elements that can be featured as part of a wider exhibition hosted elsewhere.
+
+Padlet offers detailed instructions on [how to create a project](https://padlet.help/l/en/get-started/how-do-i-create-a-padlet), and [how to customise settings](https://padlet.help/l/en/article/pleoh3181b-how-do-i-customize-my-padlet), as well as [tutorial videos](https://www.youtube.com/@padlet/videos) on various aspects of its functionality.
