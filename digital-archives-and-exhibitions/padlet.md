@@ -16,6 +16,10 @@ Educational organisations may have an institutional subscription that supports u
 
 Adding an entry is as simple as typing text, and clicking '**Publish**'. As well as text, users can add images, Word, Excel, and PowerPoint documents, links, audio, videos, [screen recordings](https://www.youtube.com/watch?v=7NEr--UHGso), and even [drawings](https://www.youtube.com/watch?v=aDIfzHc1K2c). Padlet is available in [over 40 languages](https://padlet.help/l/en/about-padlet/do-you-have-it-in-my-language), and multiple users can contribute simultaneously, without needing Padlet accounts.
 
+* Range of privacy settings
+
+Projects are 'secret' by default, meaning that anyone with the link can access it, but the project will be hidden from Google. There is also the option to make a project public, password protected, or entirely private, accessible only to the creator and any user who has been invited through their Padlet account. If you are using Padlet for assessment, and don't want students to be restricted to using out-of-copyright images, you could use these settings to keep their projects restricted to assessors only, preventing any breach of copyright.
+
 * Versatile layouts for presenting information
 
 There are a range of layouts that you can switch between as your project evolves - some are more suitable than others depending on what you're trying to achieve. **Canvas** is useful at the very beginning of the planning process - it supports unstructured notes from brainstorming activities, which can be [dragged and rearranged](https://www.youtube.com/watch?v=2vJX0yqDs6Y) in any configuration. It can be used just as effectively to present a final exhibition, e.g. [The New Woman: The Bicycle and “Rational Dress”](https://padlet.com/saralambert/the-new-woman-the-bicycle-and-rational-dress-egzgzb4fdus4fsd0).
