@@ -10,7 +10,7 @@ description: For exhibition planning or simple collection building
 
 * Free version offers full functionality for up to three projects
 
-Educational organisations may have an institutional subscription that supports unlimited projects per user, but anyone can register for the free version (the 'neon' package), which allows the creation of up to three projects. There is a maximum size limit of 20MB per file upload, but you can upload as many files as you like, and there is no limit on the number of collaborators who can work on a project simultaneously.
+Educational organisations may have an institutional subscription that supports unlimited projects per user, but anyone can register for the free version (the 'neon' package), which allows the creation of up to three projects. There is a maximum size limit of 20MB per file upload, but you can upload as many files as you like, and there is no limit on the number of collaborators who can work on a project simultaneously.&#x20;
 
 * Easy and intuitive, supporting a wide range of content types
 
@@ -39,6 +39,8 @@ If you want to present information chronologically, use **Timeline** (e.g. [Apol
 {% embed url="https://www.youtube.com/watch?v=xJHm8eYZFys" %}
 
 **Stream** is a good option for hosting a full exhibition on Padlet. It supports a scrolling, illustrated narrative, and looks very professional. The Higgins Bedford Art Gallery and Museum have used the Stream format in Padlet to create their exhibition ['Paved with Gold': Bedford's Windrush Generation](https://padlet.com/thehiggins/paved-with-gold-bedford-s-windrush-generation-zo2jrvavc88d7r7t).
+
+If you like the look of Padlet, but need more than three projects, take a look at [Wakelet](https://wakelet.com/), which is a similar resource. It offers unlimited projects with less functionality, supporting just Grid, Wall ('Mood Board'), and Shelf ('Columns') layouts.
 
 Like [Storiiies ](../digital-storytelling/storiiies.md)and [Exhibit](../digital-storytelling/exhibit.md), projects on Padlet can be [embedded ](https://www.youtube.com/watch?v=bTKWJnZ\_-78)into other websites (see the example below). You could use the Map or Timeline formats to create interactive elements that can be featured as part of a wider exhibition hosted elsewhere.
 
