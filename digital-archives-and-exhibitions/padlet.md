@@ -18,7 +18,7 @@ Adding an entry is as simple as typing text, and clicking '**Publish**'. As well
 
 * Range of privacy settings
 
-Projects are 'secret' by default, meaning that anyone with the link can access it, but the project will be hidden from Google. There is also the option to make a project public, password protected, or entirely private, accessible only to the creator and any user who has been invited through their Padlet account. If you are using Padlet for assessment, and don't want students to be restricted to using out-of-copyright images, you could use these settings to keep their projects restricted to assessors only, preventing any breach of copyright.
+Projects are 'secret' by default, meaning that anyone with a link can access them, but the project will be hidden from Google. There is also the option to make a project public (visible to Google), password protected, or entirely private (accessible only to the creator and any user who has been invited through their Padlet account). If you want to use Padlet for assessment, but are concerned that students may need to use modern, copyrighted images, you could use these settings to keep their projects restricted to assessors only. Whether projects use copyright-free images publicly or copyrighted images privately, such an assessment can be a good opportunity to discuss restrictions surrounding intellectual property with your students.
 
 * Versatile layouts for presenting information
 
