@@ -31,7 +31,7 @@ Set the presentation to **public** or **password protected**. If you choose the 
 
 Tick **allow duplication** if you would like other users to be able to modify your presentation. This could be useful for assessment. A module leader could pre-load a number of digital objects to a project. If this option is ticked, a **duplicate** button will appear on the final presentation. When a student clicks this button, they will be prompted to add their name, creating a new, personal version of the presentation to which they can add annotations, without needing to worry about the set up.
 
-Finally, confirm your agreement with the [terms of service](https://www.exhibit.so/docs/terms-of-service) and [privacy policy](https://www.exhibit.so/docs/privacy-policy). Digital content made available by heritage organisation using IIIF is unlikely to be covered by licenses restricting educational use, but this can be a good opportunity to discuss copyright and even data protection with students.
+Finally, confirm your agreement with the [terms of service](https://www.exhibit.so/docs/terms-of-service) and [privacy policy](https://www.exhibit.so/docs/privacy-policy). Digital content made available by heritage organisation using IIIF is unlikely to be covered by licenses restricting educational use, but this can be a good opportunity to discuss issues around copyright and image licensing with students.
 
 Click **create exhibit**!
 
