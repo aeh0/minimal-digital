@@ -12,3 +12,5 @@ All sites built using Collection Builder will look the same in terms of layout -
 
 If a user includes subject headings in their metadata, a tag cloud will generate. If dates are included, a timeline will appear. If latitude and longitude data is added, an interactive map will 'pin' the images to geographic locations. The final product gives the impression that a lot of programming has gone into the site, when in fact it is driven solely by csv.
 
+[Map zoom levels](https://leafletjs.com/examples/zoom-levels/example-delta.html)
+
