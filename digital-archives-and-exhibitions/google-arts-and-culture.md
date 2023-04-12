@@ -4,7 +4,7 @@ description: A simple, intuitive website builder
 
 # Google Sites
 
-[Google Sites](https://sites.google.com) is an ideal tool for making simple, free websites, with no adverts or branding, and requiring no coding knowledge.
+[Google Sites](https://sites.google.com) is a great tool for making simple, free websites, with no adverts or branding, and requires no coding knowledge.
 
 <figure><img src="../.gitbook/assets/googlesites.jpg" alt=""><figcaption><p>Sample exhibition website made with Google Sites.</p></figcaption></figure>
 
@@ -30,7 +30,7 @@ An image will offer options for cropping, adding links, captions and alt text. I
 
 * Google integration
 
-Unlike Storiiies and Exhibit, you will need a Google account, and log in to use this tool. On the plus side, there are no additional passwords to worry about, and setup is seamless if you already have an account. Google Sites is fully integrated with all other Google products, should you wish to feature calendars, maps, documents, slides, spreadsheets, forms, or charts. You can use Google Analytics to track page views and site traffic (though options for search engine optimisation are limited - it isn't a tool designed for business use). All content and changes are backed up in Google Drive. Sites can be published and unpublished to the web in one click.
+Unlike Storiiies and Exhibit, you will need a Google account, and log in to use this tool. On the plus side, there are no additional passwords to worry about, and setup is seamless if you already have an account. Google Sites is fully integrated with all other Google products, should you wish to feature calendars, maps, documents, slides, spreadsheets, forms, or charts. You can use Google Analytics to track page views and site traffic (though options for marketing and search engine optimisation are limited - it isn't a tool intended for business use). All content and changes are backed up in Google Drive. Sites can be published and unpublished to the web in one click.
 
 * Flexible view/edit access
 
@@ -42,13 +42,17 @@ This isn't a built in feature, but can be achieved by building a website in one 
 
 * Support for embedding IIIF objects
 
-Use the embed code in IIIF viewers to feature zoomable, browseable IIIF objects in your website. Edit the code to set the height and width parameters to 100% to ensure that your embedded images are responsive, and look good on any size of screen.
+Use the embed code in IIIF viewers to feature zoomable, browsable IIIF objects in your website. Edit the code to set the height and width parameters to 100% to ensure that your embedded images are responsive, and look good on any size of screen.
 
 ### Disadvantages
 
 The cons are largely the same as the pros - because Google Sites is simple and requires no coding knowledge, functionality is limited. You won't be able to add custom CSS or add any kind of interactivity with Javascript.
 
-More functionality is available through products like [Wordpress](https://wordpress.com/free/), [Wix](https://support.wix.com/en/article/free-vs-premium-site) and [Weebly](https://www.weebly.com/uk/pricing) if this is important for your project, but there are disadvantages. All feature ads, branding, and a limit on storage and bandwidth
+More functionality is available through products like [Wordpress](https://wordpress.com/free/), [Wix](https://support.wix.com/en/article/free-vs-premium-site) and [Weebly](https://www.weebly.com/uk/pricing) if this is important for your project, but there are disadvantages to using those platforms. All feature ads, branding, and a limit on storage and bandwidth
+
+### Alternatives
+
+In this example, I've used Google Sites to make a basic, blank website, on which I've built an exhibition using headers, images, carousels, and embedded content. By contrast, Collection Builder and Omeka are platforms that are specifically designed for digital archives and exhibitions. Like Google Sites, both have limits on the extent to which they can be customised, but they use templates which in most cases are suitable for use 'out of the box', limiting the need for customisation. Both are relatively simple to use for anyone who wants to make (or teach people how to make) a digital archive or exhibition, rather than a general website.
 
 For an unbranded, ad-free web-hosting with generous storage, AND which is fully customisable (with coding knowledge), take a look at [Wax](wax.md).
 

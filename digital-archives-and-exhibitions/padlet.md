@@ -42,7 +42,7 @@ If you want to present information chronologically, use **Timeline** (e.g. [Apol
 
 If you like the look of Padlet, but need more than three projects, take a look at [Wakelet](https://wakelet.com/), which is a similar resource. It offers unlimited projects with less functionality, supporting just Grid, Wall ('Mood Board'), and Shelf ('Columns') layouts.
 
-Like [Storiiies ](../digital-storytelling/storiiies.md)and [Exhibit](../digital-storytelling/exhibit.md), projects on Padlet can be [embedded ](https://www.youtube.com/watch?v=bTKWJnZ\_-78)into other websites (see the example below). You could use the Map or Timeline formats to create interactive elements that can be featured as part of a wider exhibition hosted elsewhere.
+Like [Storiiies ](../digital-storytelling/storiiies.md)and [Exhibit](../digital-storytelling/exhibit.md), projects on Padlet can be [embedded ](https://www.youtube.com/watch?v=bTKWJnZ\_-78)into other websites (see the example below). You could therefore use the Map or Timeline formats to create interactive elements that can be featured as part of a wider exhibition hosted elsewhere.
 
 {% embed url="https://padlet.com/thehiggins/paved-with-gold-bedford-s-windrush-generation-zo2jrvavc88d7r7t" %}
 Example of an embedded Padlet exhibition.
