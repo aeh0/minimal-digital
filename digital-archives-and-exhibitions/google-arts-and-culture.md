@@ -52,7 +52,7 @@ More functionality is available through products like [Wordpress](https://wordpr
 
 ### Alternatives
 
-In this example, I've used Google Sites to make a basic, blank website, on which I've built an exhibition using headers, images, carousels, and embedded content. By contrast, Collection Builder and Omeka are platforms that are specifically designed for digital archives and exhibitions. Like Google Sites, both have limits on the extent to which they can be customised, but they use templates which in most cases are suitable for use 'out of the box', limiting the need for customisation. Both are relatively simple to use for anyone who wants to make (or teach people how to make) a digital archive or exhibition, rather than a general website.
+In this example, I've used Google Sites to make a basic, blank website, on which I've built an exhibition using headers, images, carousels, and embedded content. By contrast, [CollectionBuilder](collection-builder.md) is specifically designed for digital archives and exhibitions. Like Google Sites, it has limits on the extent to which it can be customised, but it uses a template which in most cases is suitable for use 'out of the box', limiting the need for customisation. It's relatively simple to use for anyone who wants to make (or teach people how to make) a digital archive or exhibition, rather than a general website.
 
-For an unbranded, ad-free web-hosting with generous storage, AND which is fully customisable (with coding knowledge), take a look at [Wax](wax.md).
+For an unbranded, ad-free web-hosting with generous storage, AND which is fully customisable (with coding knowledge), take a look at [Juncture](omeka.md) and [Wax](wax.md).
 
