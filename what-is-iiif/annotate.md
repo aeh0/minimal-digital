@@ -1,8 +1,8 @@
 ---
-description: Enhancing objects through transcription, overlay, or commentary
+description: Attach transcription, image overlays, or text commentary
 ---
 
-# Annotations
+# Annotate
 
 Being able to define and save a specific section of an image using a URL, means we can attach additional information to it, enhancing the original.
 
@@ -24,7 +24,7 @@ Some objects may be enhanced by overlaying another object on top, which can be v
 
 <figure><img src="../.gitbook/assets/mapoverlay.jpg" alt=""><figcaption><p>Example from <a href="https://www.georeferencer.com/compare">Georeferencer</a></p></figcaption></figure>
 
-Take a look at these [Raphael cartoons](https://vanda.github.io/curtain-viewer/) from the Victoria and Albert Museum. Try clicking the 'infrared' toggle, then touch the painting. You can now see two layers - the painting's surface, and the original underpainting, made visible using infrared photography. Clicking the 'surface' toggle adds a third layer - the surface of the canvas.
+Take a look at these [Raphael cartoons](https://vanda.github.io/curtain-viewer/) from the Victoria and Albert Museum, which have been digitised using three different techniques, with the resulting images overlaid. Try clicking the 'infrared' toggle, then scroll over the painting. You can now see two layers - the painting's surface, and the original charcoal underdrawing, made visible using infrared photography. Clicking the 'surface' toggle adds a third layer - the 3D surface of the canvas. This allows us to see tiny pinpricks in the painting, created when the designs were transferred to fabric in order to be made into tapestries.
 
 <figure><img src="../.gitbook/assets/raphael.jpg" alt=""><figcaption><p>All three layers are visible - painting, underpainting, and canvas surface</p></figcaption></figure>
 {% endtab %}
@@ -34,10 +34,11 @@ Annotations may take the form of curatorial commentary, allowing us to tell stor
 
 The Rijksmuseum used this capability to create [guided, multimedia tours of the Night Watch](https://beleefdenachtwacht.nl/en).
 
-Created by NTR, a Dutch public service broadcaster, this ambitious, richly annotated version of [The Garden of Earthly Delights](https://archief.ntr.nl/tuinderlusten/en.html) by Jheronimus Bosch describes itself as an 'interactive documentary'. This is an interesting use of digital curatorial annotation beyond the cultural heritage sector.
+An interesting use of digital curatorial annotation beyond the cultural heritage sector, is this ambitious, richly annotated version of [The Garden of Earthly Delights](https://archief.ntr.nl/tuinderlusten/en.html) by Jheronimus Bosch. Created by NTR, a Dutch public service broadcaster, this annotation project describes itself as an 'interactive documentary'. Click on the flags to zoom in on the painting, and hear or read an explanation of that section.
 
 <figure><img src="../.gitbook/assets/bosch.jpg" alt=""><figcaption><p>An annotated version of <a href="https://archief.ntr.nl/tuinderlusten/en.html">The Garden of Earthly Delights</a> by Jheronimus Bosch</p></figcaption></figure>
 
 This toolkit describes ways in which you can make your own narratives and tours of books, manuscripts, and artworks, using free IIIF tools like [Storiiies](broken-reference/) and [Exhibit](broken-reference/).
 {% endtab %}
 {% endtabs %}
+

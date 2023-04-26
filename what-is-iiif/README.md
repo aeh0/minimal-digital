@@ -6,9 +6,11 @@ coverY: 70.48458149779738
 
 # What is IIIF?
 
-If you use digital representations of books, archives, or art in your research or teaching, the [International Image Interoperability Framework (IIIF)](https://iiif.io/) has the potential to transform the way you work. Adopted by over 100 major cultural heritage organisations around the world, the framework defines international standards for viewing and sharing digital images online in a consistent and interoperable way.&#x20;
+One of the biggest issues faced by those who use digital representations of books, archives, or art in research or teaching, is the way that almost every library or museum presents their digitised material inconsistently. Different institutions use different viewers, varying in functionality and ease of use, and implement different rules about download and re-use. It's a confusing landscape for researchers to navigate.
 
-IIIF (pronounced 'triple-eye-eff') breaks down cultural heritage silos, by allowing images from any library, archive, gallery, or museum that has adopted the framework to be:&#x20;
+The [International Image Interoperability Framework (IIIF)](https://iiif.io/), pronounced 'triple-eye-eff', addresses this issue. Essentially, it is a list of rules that institutions agree to adhere to. These rules determine a set way to present images and their descriptive data, ensuring that digital images can be viewed and shared online in a consistent and interoperable way, regardless of origin. Institutions that follow these rules are helping to break down digital silos, and unlock their collections for wider re-use. To date, IIIF has been adopted by [over 100 major cultural heritage organisations worldwide](https://iiif.io/guides/finding\_resources/).
+
+IIIF offers a number of benefits. Images from libraries, archives, galleries, and museums that have adopted the framework can be:&#x20;
 
 * [Examined](examine.md) in minute detail
 * [Annotated](annotate.md) with text or other images
