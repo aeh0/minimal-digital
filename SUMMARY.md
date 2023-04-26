@@ -6,7 +6,7 @@
   * [Annotate](what-is-iiif/annotate.md)
   * [Enhance](what-is-iiif/enhance.md)
   * [Reunify](what-is-iiif/reunify.md)
-  * [Compare](what-is-iiif/compare.md)
+  * [Compare \[to do\]](what-is-iiif/compare-to-do.md)
   * [Contextualise](what-is-iiif/contextualise.md)
   * [Share](what-is-iiif/share.md)
   * [Repurpose](what-is-iiif/repurpose.md)
