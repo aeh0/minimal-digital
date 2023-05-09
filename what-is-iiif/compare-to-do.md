@@ -24,9 +24,10 @@ There may be times when you want to compare multiple digital objects from reposi
 
 * To view the metadata associated with an image, click on the hamburger button (three horizontal lines) to the top left of each object. This will display the metadata in a panel on the left side of the viewer.
 * If you want to save or share the current state of the viewer, you can click on the '...' button in the left toolbar. 'Export' generates code that you can copy and send to another user - who can paste it under the 'Import' option in their own browser. You can also save the code for your own use if you want to come back to your workspace at a later date.
-* Try copying this code, and pasting to Mirador using the 'import workspace' option:
+* Try copying this code, then pasting to Mirador using the 'import workspace' option:
 
-```
+{% code overflow="wrap" %}
+```json
 {
   "catalog": [
     {
@@ -789,3 +790,4 @@ There may be times when you want to compare multiple digital objects from reposi
   }
 }
 ```
+{% endcode %}
