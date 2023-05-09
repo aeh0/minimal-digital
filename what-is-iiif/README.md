@@ -18,6 +18,7 @@ IIIF offers a number of benefits. Images from libraries, archives, galleries, an
 * [Reunited](reunify.md) with related material from other institutions
 * [Compared](compare-to-do.md) side by side in one browser window
 * [Contextualised](contextualise.md) with metadata
-* [Repurposed](repurpose.md) endlessly in third party sites and tools
+
+...and repurposed endlessly in online tools and resources, to create [digital narratives](../digital-storytelling/), or [digital archives and exhibitions](../digital-archives-and-exhibitions/).
 
 [A more technical explanation of IIIF](https://iiif.io/) involves talk of servers and APIs, but you don't really need to know about those things. A simple analogy is that of a mosaic - each image is broken down into hundreds of smaller digital images, called tiles. Each tile has a unique URI that defines its location in relation to the others. This is what powers one of IIIF's most popular features - deep zoom.

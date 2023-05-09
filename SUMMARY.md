@@ -8,7 +8,6 @@
   * [Enhance](what-is-iiif/enhance.md)
   * [Compare](what-is-iiif/compare-to-do.md)
   * [Contextualise](what-is-iiif/contextualise.md)
-  * [Repurpose](what-is-iiif/repurpose.md)
   * [Finding IIIF images](what-is-iiif/finding-iiif-images.md)
 * [Digital storytelling](digital-storytelling/README.md)
   * [Storiiies](digital-storytelling/storiiies.md)
