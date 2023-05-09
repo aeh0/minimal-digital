@@ -4,7 +4,7 @@ description: Analyse digital objects from different institutions side-by-side
 
 # Compare
 
-There may be times when you want to compare multiple digital objects from repositories, that might be on different sides of the world. Preliminary sketches with a final artwork, or multiple versions of a manuscript. IIIF supports this too, using Mirador a web-based viewer
+There may be times when you want to compare multiple digital objects from repositories, that might be on different sides of the world. Preliminary sketches with a final artwork, or multiple versions of a manuscript. IIIF supports this too, using Mirador, a web-based viewer
 
 ### How to use the Mirador viewer
 
