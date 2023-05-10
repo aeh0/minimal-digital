@@ -1,5 +1,7 @@
 ---
 description: IIIF images are always linked to their metadata and wider archival context
+cover: ../.gitbook/assets/reconstructedmanuscript.jpg
+coverY: -201
 ---
 
 # Contextualise

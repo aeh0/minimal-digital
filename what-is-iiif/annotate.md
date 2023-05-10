@@ -1,5 +1,7 @@
 ---
 description: Attach transcription, image overlays, or text commentary
+cover: ../.gitbook/assets/bosch.jpg
+coverY: 0
 ---
 
 # Annotate

@@ -1,5 +1,7 @@
 ---
 description: Digitally reunify objects held in physically disparate locations
+cover: ../.gitbook/assets/mirador.jpg
+coverY: 0
 ---
 
 # Reunify

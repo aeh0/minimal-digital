@@ -1,5 +1,7 @@
 ---
 description: Adjust image settings without altering the original
+cover: ../.gitbook/assets/image.png
+coverY: 355
 ---
 
 # Enhance
