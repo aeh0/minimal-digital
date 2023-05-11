@@ -1,5 +1,7 @@
 ---
 description: Create your own IIIF images for scholarly exhibits
+cover: ../.gitbook/assets/geographies.jpg
+coverY: -193
 ---
 
 # Wax

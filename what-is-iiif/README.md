@@ -1,6 +1,6 @@
 ---
 description: A global standard for viewing and sharing quality images of cultural heritage
-cover: ../.gitbook/assets/iiif.jpg
+cover: ../.gitbook/assets/iiif (1).jpg
 coverY: 70.48458149779738
 ---
 

@@ -1,7 +1,7 @@
 ---
 description: Annotate multiple pages of multiple items for a more advanced presentation
-cover: ../.gitbook/assets/ambassadors.jpg
-coverY: 382
+cover: ../.gitbook/assets/exhibit.jpg
+coverY: 58
 ---
 
 # Exhibit

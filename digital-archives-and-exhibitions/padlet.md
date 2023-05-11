@@ -1,5 +1,7 @@
 ---
 description: For exhibition planning or simple collection building
+cover: ../.gitbook/assets/padletformats.jpg
+coverY: 719
 ---
 
 # Padlet

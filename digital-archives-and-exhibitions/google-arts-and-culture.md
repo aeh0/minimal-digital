@@ -1,5 +1,7 @@
 ---
 description: A simple, intuitive website builder
+cover: ../.gitbook/assets/googlesitesnew.jpg
+coverY: 361
 ---
 
 # Google Sites

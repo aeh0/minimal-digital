@@ -1,5 +1,7 @@
 ---
 description: Access the world's highest quality, re-usable images of cultural heritage
+cover: ../.gitbook/assets/iiif.jpg
+coverY: 33
 ---
 
 # Finding IIIF images

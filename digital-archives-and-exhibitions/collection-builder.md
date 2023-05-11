@@ -1,5 +1,7 @@
 ---
 description: Template-driven digital exhibitions and visualisations
+cover: ../.gitbook/assets/collectionbuilderitem.jpg
+coverY: -87
 ---
 
 # CollectionBuilder
