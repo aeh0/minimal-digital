@@ -6,7 +6,7 @@ coverY: 355
 
 # Enhance
 
-One advantage of IIIF for working with images is the ease with which they can be manipulated by the viewer within the browser, without altering the original file.&#x20;
+Another advantage IIIF offers is the ease with which images can be manipulated by the viewer within the browser, without altering the original file.&#x20;
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>David Wilkie, <a href="https://bsip.org.uk/mirador?manifest=https://bsip.org.uk/iiif-s/manifest/Y1urNPieedBC2kfb_mij5UVrLyruoLj9UZzM_5asOvW0siOVbYDpwrwUqXhiaRUmoz57vN3uhZG-PRUJ6UsnyA==.json">The Penny Wedding</a> (1818)</p></figcaption></figure>
 
