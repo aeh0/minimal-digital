@@ -1,5 +1,5 @@
 ---
-description: Digitally reunify objects held in physically disparate locations
+description: Create new digital objects from items held in different locations
 cover: ../.gitbook/assets/mirador.jpg
 coverY: 0
 ---

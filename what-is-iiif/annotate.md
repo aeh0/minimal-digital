@@ -1,5 +1,5 @@
 ---
-description: Attach transcription, image overlays, or text commentary
+description: Attach transcription, image overlays, or editorial commentary
 cover: ../.gitbook/assets/bosch.jpg
 coverY: 0
 ---
