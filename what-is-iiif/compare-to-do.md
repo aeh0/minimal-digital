@@ -14,9 +14,9 @@ There may be times when you want to compare multiple digital objects from reposi
 * Once you've found a IIIF manifest, [open the Mirador viewer in your web browser](https://projectmirador.org/demo/). This will open Mirador with a default set of images. Use the X button in the top right of each to clear the default images.
 * To load a IIIF manifest into Mirador, click on the '+ Start here' button in the top left corner of the viewer. You'll see a list of sample manifests - click 'Add resource' in the bottom right to add a new one. Paste the URL of a IIIF manifest into the text field and click 'Add'. Here are some manifests (JSON links) of three different 15th century manuscripts of Chaucer's Canterbury Tales. Try copying each link, and pasting them in Mirador:
   * The Ellesmere Chaucer, from the Huntingdon Library, California [https://hdl.huntington.org/iiif/2/p15150coll7:2838/manifest.json](https://hdl.huntington.org/iiif/2/p15150coll7:2838/manifest.json)
-  * The Hengwrt Chaucer, from the National Library of Wales, Aberystwyth. Sometimes manifests are duplicated in the URL - in this case, just copy and paste the section following the equals sign [https://damsssl.llgc.org.uk/iiif/2.0/4628556/manifest.json?manifest=**https://damsssl.llgc.org.uk/iiif/2.0/4628556/manifest.json**](https://damsssl.llgc.org.uk/iiif/2.0/4628556/manifest.json?manifest=https://damsssl.llgc.org.uk/iiif/2.0/4628556/manifest.json)
+  * The Hengwrt Chaucer, from the National Library of Wales, Aberystwyth. Sometimes manifests are duplicated in the URL - in this case, just copy and paste the section following the equals sign, e.g. [https://damsssl.llgc.org.uk/iiif/2.0/4628556/manifest.json?manifest=**https://damsssl.llgc.org.uk/iiif/2.0/4628556/manifest.json**](https://damsssl.llgc.org.uk/iiif/2.0/4628556/manifest.json?manifest=https://damsssl.llgc.org.uk/iiif/2.0/4628556/manifest.json)
   * The Bodmer Chaucer, from Fondation Martin Bodmer, Switzerland [https://www.e-codices.ch/metadata/iiif/fmb-cb-0048/manifest.json](https://www.e-codices.ch/metadata/iiif/fmb-cb-0048/manifest.json)
-* Each object will appear in a new row at the top of the list of examples. Click on the object to load its images into the viewer, and display them in the main window. Go back to the '+' button to add more objects.
+* Each object will appear in a new row at the top of the list of examples. Click on each object to load its images into the viewer, and display them in the main window. Go back to the '+' button to add more objects.
 
 <figure><img src="../.gitbook/assets/miradorlist.jpg" alt=""><figcaption><p>Three Chaucer manuscripts have been added to the workspace. Click on each row to load them in the viewer.</p></figcaption></figure>
 
@@ -26,7 +26,7 @@ There may be times when you want to compare multiple digital objects from reposi
 
 * To view the metadata associated with an image, click on the hamburger button (three horizontal lines) to the top left of each object. This will display the metadata in a panel on the left side of the viewer.
 * If you want to save or share the current state of the viewer, you can click on the '...' button in the left toolbar. 'Export' generates code that you can copy and send to another user - who can paste it under the 'Import' option in their own browser. You can also save the code for your own use if you want to come back to your workspace at a later date.
-* Try copying this code, then pasting to Mirador using the 'import workspace' option:
+* Try copying this code using the icon in the top right, then pasting to Mirador using the 'import workspace' option:
 
 {% code overflow="wrap" %}
 ```json
