@@ -12,9 +12,9 @@ Here are some examples of guided viewing presentations made using Storiiies - fe
 
 Start by opening the [Storiiies editor](https://storiiies-editor.cogapp.com/). This is web-based, and doesn't require users to sign in or download anything.
 
-If you want to annotate a IIIF image, paste the manifest link in to get started. Use the [guide to finding IIIF manifests](../what-is-iiif/finding-iiif-images.md), or copy this link to an [1881 map of America](https://whelf-cardiff.alma.exlibrisgroup.com/view/iiif/presentation/44WHELF\_CAR/12208043070002420/manifest), if you need a quick example. If you're using a standard jpeg, upload the file. Large, high resolution jpegs work best - if the file isn't large enough, you won't be able to zoom in far enough to make useful annotations.&#x20;
+If you want to annotate a IIIF image, paste the manifest link in to get started. Use the [guide to finding IIIF manifests](../what-is-iiif/finding-iiif-images.md), or copy this link to an [1881 map of America](https://whelf-cardiff.alma.exlibrisgroup.com/view/iiif/presentation/44WHELF\_CAR/12208043070002420/manifest), if you need a quick example. If you're using a standard jpeg, upload the file. Large, high resolution jpegs work best - if the file is too small, you won't be able to zoom in far enough to make useful annotations.&#x20;
 
-Give your presentation a title. Add an author, description, or credits if needed (these fields are optional). You will need to supply an email address - this will be used to send you a link to your finished presentation and join the Storiiies mailing list (from which you can unsubscribe).
+Give your presentation a title. Add an author, description, or credits if needed (these fields are optional). You will need to supply an email address - this will be used to send you a link to your finished presentation and join the Storiiies mailing list (from which you can later unsubscribe).
 
 <figure><img src="../.gitbook/assets/storiiies.jpg" alt=""><figcaption></figcaption></figure>
 
