@@ -1,6 +1,6 @@
 ---
 description: Analyse digital objects from different institutions side-by-side
-cover: ../.gitbook/assets/image (1).png
+cover: ../.gitbook/assets/image (1) (1).png
 coverY: 0
 ---
 
