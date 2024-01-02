@@ -12,4 +12,6 @@ Clicking on the link to each institution will lead you to a page that describes 
 
 The manifest is a package that contains all the images belonging to a digital object, plus its metadata (e.g. the title, author, date information that explains what those images represent). The manifest is delivered in a URI that allows the object to be opened in any IIIF viewer or tool.
 
+IIIF is not just for major organisations. As of 2023, anyone can create IIIF-compatible images, for free, by uploading them to the Internet Archive. Note the Internet Archive filename, found in the URL, e.g. [https://archive.org/details/](https://archive.org/details/)\[filename]. You can add this to the following string to create a IIIF manifest: **https://iiif.archive.org/iiif/3/\[filename]/manifest.json**. The manifest can be pasted into any IIIF viewer or editing tool, for enhanced viewing and remixing.
+
 Manifests are what make IIIF images truly interoperable - reusable by anyone, anywhere - radically democratising access to the world's cultural heritage. For instance, the [digital storytelling](../digital-storytelling/) tools described in this toolkit allow books, archives, and artworks from any collection in the world to be annotated and enhanced with scholarly narratives.
