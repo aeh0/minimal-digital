@@ -18,9 +18,9 @@ If you click on the blue plus (+) icon in the top left, you can select other obj
 
 #### Exercise: Comparing objects in Mirador
 
-* Go to [Mirador](https://mirador-dev.netlify.app/\_\_tests\_\_/integration/mirador/), and close down any open objects in your workspace by clicking the crosses in the top right corner.
-* Click on the 'Start here' button in the top left. Click 'Add resource' in the bottom right to add a new one. Copy this IIIF manifest, then paste into the text field, and click 'Add': https://hdl.huntington.org/iiif/2/p15150coll7:2838/manifest.json.
-* The object will load in the list of resources. Click on it to pull it into your workspace.
-* The loaded manifest is a manuscript of Chaucer's Canterbury Tales, held at the Huntingdon Library in Philadephia. Let's compare it with another version, held in Cologny, Switzerland. Click on the blue plus (+) icon, then 'Add resource'. Copy this manifest, paste into Mirador, then click 'Add': https://www.e-codices.ch/metadata/iiif/fmb-cb-0048/manifest.json.
-* The second manuscript will be added to the list of resources. Click on it to pull it into your workspace.
-* Use the arrows at the bottom of each manuscript (click on the manuscript to make them appear) to find the first page of each. Zoom in on the illuminated 'W' initial, and compare both versions.
+* [ ] Go to [Mirador](https://mirador-dev.netlify.app/\_\_tests\_\_/integration/mirador/), and close down any open objects in your workspace by clicking the crosses in the top right corner.
+* [ ] Click on the 'Start here' button in the top left. Click 'Add resource' in the bottom right to add a new one. Copy this IIIF manifest, then paste into the text field, and click 'Add': https://hdl.huntington.org/iiif/2/p15150coll7:2838/manifest.json.
+* [ ] The object will load in the list of resources. Click on it to pull it into your workspace.
+* [ ] The loaded manifest is a manuscript of Chaucer's Canterbury Tales, held at the Huntingdon Library in Philadephia. Let's compare it with another version, held in Cologny, Switzerland. Click on the blue plus (+) icon, then 'Add resource'. Copy this manifest, paste into Mirador, then click 'Add': https://www.e-codices.ch/metadata/iiif/fmb-cb-0048/manifest.json.
+* [ ] The second manuscript will be added to the list of resources. Click on it to pull it into your workspace.
+* [ ] Use the arrows at the bottom of each manuscript (click on the manuscript to make them appear) to find the first page of each. Zoom in on the illuminated 'W' initial, and compare both versions.

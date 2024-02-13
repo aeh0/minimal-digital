@@ -12,13 +12,13 @@ Cultural heritage institutions that deliver freely licensed access to their digi
 
 Go to the [list of institutions that support IIIF](https://iiif.io/guides/finding\_resources/) on the IIIF website. Each institution's name will lead you to a dedicated page that provides a link to their digital collections platform, and an annotated screenshot explaining where to find the **manifest**.
 
-Manifests are the key to unlocking IIIF items for re-use. They look like this:
+Manifests are the key to unlocking IIIF items for re-use. Here are some examples:
 
-* example
-* example
-* example
+* https://access.ecodices.nl/iiif/presentation/MMW\_10\_A\_12/manifest
+* https://www.loc.gov/item/mss859430239/manifest.json
+* https://dam.museabrugge.be/iiif/3/418/manifest.json
 
-Manifests look a bit like links, but they're more like parcels. Rather than push a user to the location of a digital object on the web, a manifest packages everything a computer needs to know in order for that user to pull the digital object into their current location. The package contains:
+Manifests look like links, but they're more like parcels. Rather than push a user to the location of a digital object on the web, a manifest packages everything a computer needs to know in order for that user to pull the digital object into their current location. The package contains:
 
 * links to all the images belonging to a digital object
 * structural metadata - instructions on how to organise and present the images
