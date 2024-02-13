@@ -16,4 +16,4 @@ Take a look at [The Night Watch](https://hyper-resolution.org/view.html?pointer=
 
 IIIF images can also be **COMPARED**​ side by side in one browser window, and **ANNOTATED**​ with text or other images to add commentary or analysis. More on this later!
 
-Sound good? Let's start by learning [how to find IIIF images](../finding-iiif-images.md).
+Sound good? Let's start by learning [how to find IIIF images](../find-iiif-images.md).
