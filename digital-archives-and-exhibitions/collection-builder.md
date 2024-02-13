@@ -24,7 +24,7 @@ The metadata includes subject headings, which have generated a [tag cloud](https
 
 <figure><img src="../.gitbook/assets/collectionbuilderitem.jpg" alt=""><figcaption></figcaption></figure>
 
-Clicking on the image again loads it at full screen, where if the file is large enough, you can zoom into details in a similar manner to a [IIIF image](../what-is-iiif/examine.md).
+Clicking on the image again loads it at full screen, where if the file is large enough, you can zoom into details in a similar manner to a [IIIF image](../iiif-workshop/examine.md).
 
 <figure><img src="../.gitbook/assets/collectionbuilderzoom.jpg" alt=""><figcaption></figcaption></figure>
 

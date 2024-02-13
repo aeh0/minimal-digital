@@ -1,10 +1,14 @@
 ---
-description: A global standard for viewing and sharing quality images of cultural heritage
+description: An introductory workshop on finding, sharing, and remixing IIIF images
 cover: ../.gitbook/assets/iiif (1).jpg
 coverY: 70.48458149779738
 ---
 
-# What is IIIF?
+# IIIF workshop
+
+This self-guided workshop will help you get started with IIIF. It will give you the skills to locate and re-use millions of open access images of books, manuscripts, and art from some of the world’s greatest libraries, archives and museums. Learn how to find, compare, download, embed, and share IIIF images, and have a go at making your own virtual tours and guided viewing experiences.
+
+No previous IIIF experience or expertise is required!
 
 One of the biggest issues faced by those who use digital representations of books, archives, or art in research or teaching, is that almost every library or museum presents their digitised material inconsistently. Different institutions use different digital viewers, varying in functionality and ease of use, and implement different rules about download and re-use. It's a confusing landscape to navigate.
 
@@ -16,7 +20,7 @@ IIIF offers a number of benefits. Images from libraries, archives, galleries, an
 * [Annotated](annotate.md) with text or other images to provide scholarly commentary
 * [Reunited](reunify.md) with related material from other institutions to create new digital objects
 * [Enhanced](enhance.md) in-browser: adjusting brightness, contrast and polarity to improve accessibility
-* [Compared](compare-to-do.md) side by side in one browser window
+* [Compared](compare.md) side by side in one browser window
 * [Contextualised](contextualise.md) with metadata and related material
 
 ...and repurposed endlessly in online tools and resources, to create [digital narratives](../digital-storytelling/), or [digital archives and exhibitions](../digital-archives-and-exhibitions/).

@@ -40,4 +40,4 @@ An interesting use of digital curatorial annotation beyond the cultural heritage
 
 <figure><img src="../.gitbook/assets/bosch.jpg" alt=""><figcaption><p>An annotated version of <a href="https://archief.ntr.nl/tuinderlusten/en.html">The Garden of Earthly Delights</a> by Jheronimus Bosch</p></figcaption></figure>
 
-This toolkit describes ways in which you can make your own narratives and tours of books, manuscripts, and artworks, using free IIIF tools like [Storiiies](broken-reference/) and [Exhibit](broken-reference/).
+This toolkit describes ways in which you can make your own narratives and tours of books, manuscripts, and artworks, using free IIIF tools like [Storiiies](../what-is-iiif/broken-reference/) and [Exhibit](../what-is-iiif/broken-reference/).
