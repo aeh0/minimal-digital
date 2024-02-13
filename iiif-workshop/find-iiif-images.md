@@ -38,14 +38,14 @@ Every institution's digital collections platform presents information about its 
 
 ### Exercise: Finding and opening a IIIF object in Universal Viewer
 
-* [ ] Click on an institution's name, and open the link to their digital collections platform in a new tab.
-* [ ] Run a search.
-* [ ] Choose a result, and use the screenshot guidance on the IIIF website to help locate the manifest. Sometimes, it's attached to the IIIF logo, or it might be in the catalogue record.
-* [ ] When you find it, right click to copy the manifest.&#x20;
+* Click on an institution's name, and open the link to their digital collections platform in a new tab.
+* Run a search.
+* Choose a result, and use the screenshot guidance on the IIIF website to help locate the manifest. Sometimes, it's attached to the IIIF logo, or it might be in the catalogue record.
+* When you find it, right click to copy the manifest.&#x20;
 
 {% hint style="info" %}
 Some institutions' digital collections are easier to navigate than others! If you get stuck, copy one of the example manifests above.
 {% endhint %}
 
-* [ ] When you've copied a manifest, go to [Universal Viewer](https://universalviewer.io/), and scroll down the page to find a box where you can paste your manifest.&#x20;
-* [ ] Click 'View' - your digital object should open, and allow you to zoom in, pan around, and examine the item in detail.
+* When you've copied a manifest, go to [Universal Viewer](https://universalviewer.io/), and scroll down the page to find a box where you can paste your manifest.&#x20;
+* Click 'View' - your digital object should open, and allow you to zoom in, pan around, and examine the item in detail.
