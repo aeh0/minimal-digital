@@ -1,8 +1,10 @@
 ---
 description: Analyse digital objects from different institutions in a single workspace
+cover: ../.gitbook/assets/mirador.jpg
+coverY: 321.61475409836066
 ---
 
-# Compare
+# Compare objects
 
 There may be times when you want to compare multiple digital objects from repositories, that might be on different sides of the world. Preliminary sketches with a final artwork, or multiple versions of a manuscript. IIIF supports this too, using Mirador, a web-based viewer
 

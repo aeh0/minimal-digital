@@ -1,8 +1,10 @@
 ---
 description: Gather images from multiple objects in one workspace, and share with others
+cover: ../.gitbook/assets/biblissima.jpg
+coverY: -298
 ---
 
-# Collaborate
+# Curate and collaborate
 
 ### Exercise: Create and share a Mirador workspace
 

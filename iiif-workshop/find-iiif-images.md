@@ -1,8 +1,10 @@
 ---
 description: Access the world's highest quality, re-usable images of cultural heritage
+cover: ../.gitbook/assets/standrews.png
+coverY: 0
 ---
 
-# Finding IIIF images
+# Find IIIF images
 
 Cultural heritage institutions that deliver freely licensed access to their digital collections using IIIF are listed on the [IIIF website](https://iiif.io/guides/finding\_resources/). The list includes major museums and galleries, state and national libraries, and research-led universities from around the world. The number of cultural heritage items made available via IIIF is estimated at 1 billion.
 

@@ -1,10 +1,10 @@
 ---
 description: Link to or embed a specific detail of an image
-cover: ../.gitbook/assets/image (1) (1).png
-coverY: 0
+cover: ../.gitbook/assets/boschdetail.jpg
+coverY: -21
 ---
 
-# Capture a detail
+# Capture details
 
 Now you know how to find IIIF objects, and open them in Universal Viewer. Universal Viewer is one of several IIIF viewers available. Each viewer has slightly different benefits and functionality for the user, and it's worth trying a few to see which you prefer. For more in-depth information about the different available viewers, and how to use them, see the [IIIF website](https://iiif.io/guides/using\_iiif\_resources/).
 

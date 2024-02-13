@@ -1,7 +1,21 @@
 ---
 description: Create new digital objects from items held in different locations
 cover: ../../.gitbook/assets/reconstructedmanuscript.jpg
-coverY: -225
+coverY: -194
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Reunite
