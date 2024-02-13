@@ -39,7 +39,7 @@ Click **create exhibit**!
 
 You now have a blank canvas on which to start building your presentation. Before going any further, copy the URL and either save it to a document or email it to yourself. Exhibit does not support user accounts, so you will not be able to log in at a later date and retrieve your work - the presentation URL is the only means of access, so save it now.
 
-Click **Add item**, and paste in your first [IIIF manifest](../iiif-workshop/finding-iiif-images.md). Click on the imported item, then **Add to exhibit**. Repeat this stage until all your items are loaded.
+Click **Add item**, and paste in your first [IIIF manifest](../iiif-workshop/making.md). Click on the imported item, then **Add to exhibit**. Repeat this stage until all your items are loaded.
 
 ### Adding annotations
 

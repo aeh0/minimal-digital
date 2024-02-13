@@ -1,16 +1,20 @@
 ---
-description: IIIF images are always linked to their metadata and wider archival context
+description: IIIF images are always linked to their metadata and wider context
 cover: ../.gitbook/assets/reconstructedmanuscript.jpg
 coverY: -201
 ---
 
-# Contextualise
+# Context is key
 
-Metadata is built into the fabric of IIIF – because a manifest bundles both images, and textual information to describe what those images represent. Every IIIF viewer features a panel that allows this information to be viewed alongside the image. A digital object will never be detached from its description, even if it’s viewed outside its home repository, such as in a workspace like Mirador, or in an online exhibition on another platform. It will always retain a connection to information that describes the image, where it comes from, and what you can and can’t do with it in terms of licensing.
+In the last section, we found a IIIF object, and opened it in Universal Viewer. Universal Viewer is one of several IIIF viewers available. Each viewer has slightly different benefits and functionality for the user, and it's worth trying a few to see which you prefer. For more in-depth information about the different available viewers, and how to use them, see the [IIIF website](https://iiif.io/guides/using\_iiif\_resources/).
+
+You might be wondering why you need to use a IIIF viewer, when it's simple enough to copy or download an image and email it.
+
+The difference lies in **context**. IIIF viewers fetch all images in an object from the links provided in the manifest, and uses the packaged code to organise them in the correct order. The viewer also unpacks any metadata that describes what those images represent, and presents it alongside the image. In that way, a link is always maintained between a single image, and its wider context. An image will never be orphaned from the object it belongs to, or the repository it belongs to. It will always retain a connection to information that describes the image, where it comes from, and what you can and can’t do with it in terms of licensing.
 
 IIIF is designed for the responsible sharing of images, and makes it easy to see at a glance what terms and conditions may apply to re-use. IIIF images are never ‘lost’ online. Their metadata anchors them to the home repository, and to any licences that may apply. This encourages cultural organisations and their partners to trust that digitisation will widen access to their collections in a managed and responsible way. Downloading, sharing, and embedding links are built into every IIIF viewer, using stable URLs appropriate for robust scholarly citations.
 
-Metadata is used to describe both an object as a whole, and individual images within it. This is particularly useful when examining [digitally reunited manuscripts](reunify.md), such as this [glossed Bible](https://projectmirador.org/embed/?iiif-content=https://dms-data.stanford.edu/data/manifests/Stanford/ege1/manifest.json).&#x20;
+The metadata that is bundled into a manifest can refer either to an object as a whole, or to individual images within it. This is particularly useful when examining digitally reunited manuscripts, such as this [glossed Bible](https://projectmirador.org/embed/?iiif-content=https://dms-data.stanford.edu/data/manifests/Stanford/ege1/manifest.json).&#x20;
 
 Clicking on the hamburger icon (three horizontal lines) in the top left reveals an Information panel containing contextual background about the circumstances of the Bible's destruction and reconstruction. Below the **Information** button is a **Rights**, or attribution button, describing which organisations have contributed their images to the object, and below that is an **Index**, itemising each page and which library it belongs to.
 
@@ -20,4 +24,4 @@ Some UK organisations are working on [embedding IIIF image viewers inside their 
 
 For example, when looking at a letter from person A to person B, you might want to know: how many other letters were sent from A? Over what period? Are there replies from B? These are questions that an archive catalogue can answer, but which are difficult to ascertain when searching thousands of images gathered in a repository. This development work has the potential to transform the archives research experience, and work to close the gap between archive catalogues on the one hand, and digital repositories on the other.
 
-As IIIF content can be contextualised and shared responsibly, respecting image rights and attributions, it can be endlessly repurposed for scholarly projects. IIIF images from anywhere in the world can be re-used anywhere on the web, for [digital storytelling](../digital-storytelling/), or [digital archives and exhibitions](../digital-archives-and-exhibitions/). The next section describes [how to find IIIF images](finding-iiif-images.md) for re-use.
+As IIIF content can be contextualised and shared responsibly, respecting image rights and attributions, it can be endlessly repurposed for scholarly projects. In the next sections we'll look at sharing, comparing and collaborating with IIIF.
