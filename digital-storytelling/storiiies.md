@@ -30,7 +30,7 @@ When the editing interface opens, try zooming in, and clicking **Add new**, to a
 
 When finished, use **Preview** to see the results. Here's an example I made with the [USA map](https://storiiies.cogapp.com/viewer/8f487/Map-of-USA).&#x20;
 
-When you're happy with the presentation, go back to the editing interface, and click **Links**. This gives you a viewing link, embed code, and - most importantly - a link that allows you to make further edits in the future. These links will also be emailed to you, using the address provided. Storiies doesn't maintain user accounts, so these links are the only way to get back to your presentation - keep them safe!
+When you're happy with the presentation, go back to the editing interface, and click **Links**. This gives you a viewing link, embed code, and - most importantly - a link that allows you to make further edits in the future. These links will also be emailed to you, using the address provided. Storiiies doesn't maintain user accounts, so these links are the only way to get back to your presentation - keep them safe!
 
-<figure><img src="../.gitbook/assets/storiiieslinks.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/storiiieslinks.jpg" alt=""><figcaption><p>Links and embed code to your presentation</p></figcaption></figure>
 
