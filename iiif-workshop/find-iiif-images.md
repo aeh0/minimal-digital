@@ -18,7 +18,7 @@ Manifests are the key to unlocking IIIF items for re-use. Here are some examples
 * https://www.loc.gov/item/mss859430239/manifest.json
 * https://dam.museabrugge.be/iiif/3/418/manifest.json
 
-Manifests look like links, but they're more like parcels. Rather than push a user to the location of a digital object on the web, a manifest packages everything a computer needs to know in order for that user to pull the digital object into their current location. The package contains:
+Manifests look like links, but they're more like parcels. A link pushes a user to the location of a digital object on the web, but a manifest packages everything a computer needs to know in order for that user to pull the digital object into their current location. The package contains:
 
 * links to all the images belonging to a digital object
 * structural metadata - instructions on how to organise and present the images

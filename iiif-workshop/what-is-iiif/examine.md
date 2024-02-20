@@ -1,5 +1,5 @@
 ---
-description: View objects in minute detail, share and cite with pinpoint accuracy
+description: View objects in minute detail
 cover: ../../.gitbook/assets/deepzoom.jpg
 coverY: 0
 ---
