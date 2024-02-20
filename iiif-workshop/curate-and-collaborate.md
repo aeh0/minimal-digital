@@ -9,7 +9,7 @@ coverY: -298
 ### Exercise: Create and share a Mirador workspace
 
 * Open [Biblissima Portal](https://portail.biblissima.fr/en/) in a new tab. This impressive resource is a library of libraries - a single entry point to access over 650,000 digitised images of manuscripts and books from the 8th-18th centuries, held in 17 different libraries across France.
-* Scroll down to open the [Illuminations and marks search tool](https://portail.biblissima.fr/en/bbma.view?vid=search-results\&facet:etype-facet=Illumination\&facet:etype-facet=Mark). From here you can search over 300,000 images by keyword. Biblissima's metadata is largely in French, so try searching for a French noun, e.g. ange (angel), chat (cat), chien (dog), diable (devil), dragon (dragon).
+* Scroll down to open the [Illuminations and marks search tool](https://portail.biblissima.fr/en/bbma.view?vid=search-results\&facet:etype-facet=Illumination\&facet:etype-facet=Mark). From here you can use 'search within results' to filter over 300,000 images by keyword. Biblissima's metadata is largely in French, so try searching for a French noun, e.g. ange (angel), chat (cat), chien (dog), dragon (dragon).
 * Scroll through the results to find images with a IIIF logo. Open one in a new tab.
 * Note the folio or page number on which the illumination appears, then scroll down to copy the IIIF manifest.
 * Go to [Mirador](https://mirador-dev.netlify.app/\_\_tests\_\_/integration/mirador/), and close down any open objects in your workspace by clicking the crosses in the top right corner.
