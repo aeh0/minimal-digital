@@ -26,7 +26,7 @@ Manifests look like links, but they're more like parcels. A link pushes a user t
 
 A manifest stores this information as json code - if you click on a manifest, or paste it into a browser's address bar, you can see it - but don't worry, you don't need to understand it! All you need to do is copy the manifest link, and paste it into a IIIF viewer or tool in order for the object to render.
 
-Every institution's digital collections platform presents information about its objects, manifests slightly differently, and some are easier to find than others. Some example screenshots:
+Every institution's digital collections platform presents information about its objects and manifests slightly differently, and some are easier to find than others. Some example screenshots:
 
 <figure><img src="../.gitbook/assets/cam.png" alt=""><figcaption><p>Cambridge University</p></figcaption></figure>
 

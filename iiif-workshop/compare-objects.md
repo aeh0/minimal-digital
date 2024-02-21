@@ -12,7 +12,7 @@ Mirador is an alternative IIIF viewer. One of its features is being able to gath
 
 For example, a researcher might load four or five books to Mirador, open each to a particular page, and zoom each page to a particular detail. Mirador allows that researcher to come back to their workspace at a later date, or even share it with others to work collaboratively.
 
-Open [Mirador](https://mirador-dev.netlify.app/\_\_tests\_\_/integration/mirador/) in a new tab. The demo is pre-loaded with a painting from Harvard Art Museums, and a manuscript from the Bodleian Library, Oxford. Notice that if you click on the hamburger icon (three vertical lines), you can see the object's metadata, as well as the image.
+Open [Mirador](https://mirador-dev.netlify.app/\_\_tests\_\_/integration/mirador/) in a new tab. The demo is pre-loaded with a painting from Harvard Art Museums, and a manuscript from the Bodleian Library, Oxford. Notice that if you click on the hamburger icon (three horizontal lines), you can see the object's metadata, as well as the image.
 
 If you click on the blue plus (+) icon in the top left, you can select other objects to pull into the workspace. In the next exercise, we'll use Mirador to compare two manuscripts side by side.
 

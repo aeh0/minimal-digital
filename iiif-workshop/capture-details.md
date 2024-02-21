@@ -6,8 +6,6 @@ coverY: -21
 
 # Capture details
 
-Now you know how to find IIIF objects, and open them in Universal Viewer. Universal Viewer is one of several IIIF viewers available. Each viewer has slightly different benefits and functionality for the user, and it's worth trying a few to see which you prefer. For more in-depth information about the different available viewers, and how to use them, see the [IIIF website](https://iiif.io/guides/using\_iiif\_resources/).
-
 We've seen how IIIF viewers always present images in the context of the object they belong to, and because of this, sharing via IIIF has significant advantages over taking an isolated screenshot of a detail.
 
 IIIF allows a link to be generated and shared, that will take the recipient directly to a precise location within a digital object. In a scholarly or heritage context, there are any number of reasons why someone might want to share a small section of a digital object - such as an image in a book, a note in a margin, or an area of damage on a painting.&#x20;
