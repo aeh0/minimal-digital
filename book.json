@@ -1,0 +1,8 @@
+{
+	"plugins": ["ga"],
+	"pluginsConfig": {
+		"ga": {
+			"token": "G-SS9KD5D09W"
+		}
+	}
+}
