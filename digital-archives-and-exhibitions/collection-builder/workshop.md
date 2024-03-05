@@ -21,7 +21,11 @@ In this workshop, you'll make a copy of the template, and add a collection of sa
 * You will need to [set up a GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github), if you don't have one already.&#x20;
 * Download the files you'll use to create the sample site. There are 30 jpg images and 1 csv metadata file. You won't need to open or edit the csv file, but if you do want to access it, open in Google Sheets rather than Excel. Excel can introduce unwanted formatting that could later prevent the file from working properly. Click the image below to preview the metadata file.
 
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/metadata.jpg" alt=""><figcaption><p>Click on the image to see a larger version of the metadata file</p></figcaption></figure>
+
+</div>
 
 #### Create a new GitHub repository containing the template code
 
