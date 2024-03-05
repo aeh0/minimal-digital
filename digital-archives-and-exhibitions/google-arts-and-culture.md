@@ -54,5 +54,5 @@ More functionality is available through products like [Wordpress](https://wordpr
 
 ### Alternatives
 
-In this example, I've used Google Sites to make a basic, blank website, on which I've built an exhibition using headers, images, carousels, and embedded content. By contrast, [CollectionBuilder](collection-builder.md) is specifically designed for digital archives and exhibitions. It uses templates which in most cases are suitable for use 'out of the box', limiting the need for customisation. It's relatively simple to use for anyone who wants to make (or teach people how to make) a digital archive or exhibition, rather than a general website.
+In this example, I've used Google Sites to make a basic, blank website, on which I've built an exhibition using headers, images, carousels, and embedded content. By contrast, [CollectionBuilder](collection-builder/) is specifically designed for digital archives and exhibitions. It uses templates which in most cases are suitable for use 'out of the box', limiting the need for customisation. It's relatively simple to use for anyone who wants to make (or teach people how to make) a digital archive or exhibition, rather than a general website.
 

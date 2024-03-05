@@ -19,5 +19,6 @@
 * [Digital archives and exhibitions](digital-archives-and-exhibitions/README.md)
   * [Padlet](digital-archives-and-exhibitions/padlet.md)
   * [Google Sites](digital-archives-and-exhibitions/google-arts-and-culture.md)
-  * [CollectionBuilder](digital-archives-and-exhibitions/collection-builder.md)
+  * [CollectionBuilder](digital-archives-and-exhibitions/collection-builder/README.md)
+    * [Workshop](digital-archives-and-exhibitions/collection-builder/workshop.md)
   * [Wax](digital-archives-and-exhibitions/wax.md)
