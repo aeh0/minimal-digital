@@ -1,7 +1,7 @@
 ---
 description: Free tools for digital storytelling, archives, and exhibitions
 cover: .gitbook/assets/computing.jpg
-coverY: 132.1119452218715
+coverY: -5.99833793759197
 ---
 
 # About
