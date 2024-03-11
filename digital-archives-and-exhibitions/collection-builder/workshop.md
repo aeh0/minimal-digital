@@ -109,7 +109,7 @@ When you've finished editing, go to the **Commit changes** box, write a short co
 * Change the featured image from demo\_001 to one of your own files. img022 works particularly well.
 
 ```
-featured-image: demo_001
+featured-image: img022
 ```
 
 ### Update map location
