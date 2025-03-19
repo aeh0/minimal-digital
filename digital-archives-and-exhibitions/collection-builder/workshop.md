@@ -14,7 +14,7 @@ CollectionBuilder uses a template GitHub site to allow you to present a collecti
 
 GitHub Pages is used to make the site available online, with no hosting charges. Take a look at the [template site](https://collectionbuilder.github.io/collectionbuilder-gh/) to see how images are displayed.
 
-In this workshop, you'll create your own sample site made with 30 dated, geolocated images. The images are taken from Cardiff University's photographic archive, and depict buildings at various points in the University's history, at different locations.&#x20;
+In this workshop, you'll create your own [sample site](https://aeh0.github.io/cu-buildings/) made with 30 dated, geolocated images. The images are taken from Cardiff University's photographic archive, and depict buildings at various points in the University's history, at different locations.&#x20;
 
 The metadata will include subject headings, which will generate a browsable tag cloud, dates, which will generate a timeline, and latitude and longitude data, which will generate an interactive map. Clicking on an image will load a page which is populated with a description of the contents, and a zoomable image viewer.&#x20;
 
